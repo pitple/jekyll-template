@@ -10,3 +10,11 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - github-pages
+  - jekyll-multiple-languages-plugin
+
+# jekyll-multiple-languages-plugin
+languages: ["en", "ko"]
+exclude_from_localizations: ["javascript", "images", "css"]
