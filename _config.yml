@@ -11,7 +11,7 @@ github_username:
 destination: docs
 timezone: Asia/Seoul
 markdown: kramdown
-exclude: [.gitignore, README.md, LICENCE, run.bat]
+exclude: [.gitignore, README.md, LICENCE, jk-run.bat, jk-build.bat, jk-push.bat]
 include: [.nojekyll]
 
 # Gems
