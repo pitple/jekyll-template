@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/pitple/jekyll-template.svg?branch=master)](https://travis-ci.org/pitple/jekyll-template)
+[![Build Status](https://travis-ci.org/pitple/jekyll-template.svg?branch=develop)](https://travis-ci.org/pitple/jekyll-template)
 
 # Creative Theme for Jekyll
 
