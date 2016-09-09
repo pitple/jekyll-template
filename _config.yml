@@ -1,16 +1,20 @@
 # Site settings
-title:
-email:
-description: 
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: Jekyll Template
+email: dev@pitple.com
+description: Jekyll Template 
+baseurl: "/jekyll-template" 
 url: "" # the base hostname & protocol for your site
-
 twitter_username:
 github_username:
 
 # Build settings
+destination: docs
+timezone: Asia/Seoul
 markdown: kramdown
+exclude: [.gitignore, README.md, LICENCE, run.bat]
+include: [.nojekyll]
 
+# Gems
 gems:
   - github-pages
   - jekyll-multiple-languages-plugin

@@ -1,2 +1,16 @@
-#_site/
-.sass-cache/
+# Jekyll
+.jekyll-metadata
+.sass-cache
+
+# Mac
+.DS_Store
+._*
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
