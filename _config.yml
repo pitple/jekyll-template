@@ -2,7 +2,7 @@
 title: Jekyll Template
 email: dev@pitple.com
 description: Jekyll Template 
-baseurl: "/jekyll-template" 
+baseurl: "/jekyll-template"
 url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:
@@ -12,7 +12,7 @@ destination: docs
 timezone: Asia/Seoul
 markdown: kramdown
 include: [.nojekyll]
-exclude: [vendor, .gitignore, .travis.yml, README.md]
+exclude: [docs, .gitignore, README.md, vendor, .travis.yml]
 
 # Gems
 gems:
